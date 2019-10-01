@@ -1,5 +1,5 @@
-# OUCS4263-SoftBearEngineering RNG Project
-Random number generator practice project for taking requirements.
+# OUCS4263-SoftBearEngineering RNG Experiment
+Random number generator of Region Asia-East2
 
 ## Authors
 - Hope Anderson
@@ -8,8 +8,13 @@ Random number generator practice project for taking requirements.
 - Cory White
 - Tim Gehrsitz
 
+## Instances
+asia_east2_app_Python@https://cs4263-rngtiming.appspot.com/
+asia_east2_app_Java@https://javaproject1-254017.appspot.com/
+asia_east2_VM_Python@http://35.220.136.215/
+asia_east2_VM_Java@http://34.92.200.159:8080/RNG-page/rng
+
 ## GCP with Python Guide - Blake Gerard
-[View](https://cs4263-rngproject.appspot.com/)
 
 1. Download the files in the "GCP_Python" directory to your local machine.
 2. Within your selected GCP Project, go to the App Engine dashboard and start a new service.
