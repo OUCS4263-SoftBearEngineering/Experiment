@@ -9,10 +9,10 @@ Random number generator of Region Asia-East2
 - Tim Gehrsitz
 
 ## Instances
-- asia_east2_app_Python@https://cs4263-rngtiming.appspot.com/
-- asia_east2_app_Java@https://javaproject1-254017.appspot.com/
-- asia_east2_VM_Python@http://35.220.136.215/
-- asia_east2_VM_Java@http://34.92.200.159:8080/RNG-page/rng
+- asia_east2_app_Python@https://cs4263-rngtiming.appspot.com/ 0:00:00.441432 986281
+- asia_east2_app_Java@https://javaproject1-254017.appspot.com/ 0:00:00.509440 485092
+- asia_east2_VM_Python@http://35.220.136.215/ 0:00:00.436321 692023
+- asia_east2_VM_Java@http://34.92.200.159:8080/RNG-page/rng 0:00:00.423354 636330
 
 ## GCP with Python Guide - Blake Gerard
 
