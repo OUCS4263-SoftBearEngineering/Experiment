@@ -54,6 +54,8 @@ and replace with
 (YOUR PROJECT-ID CAN BE FOUND AT GCP HOME DASHBOARD)
 `mvn appengine:deploy`
 
+![Bryant](IndexPic.png)
+
 ## VM with Python Guide - Cory White
 (In this we presume there is not VM already made so there may be steps that can be skipped)
 1.	Go to GCP and go to the compute engine
@@ -77,6 +79,10 @@ Serving Flask app "server" (lazy loading)
 8. To connect to the server you will use your vms external ip but we need to use http to connect, not https, so the url for example would be http://11.111.11.11/. The random number will appear in the top left corner of the page.
 
 Our working version of the site accessable to anyone.  http://34.69.126.180/  if there are any issues during the setup process, this link should show we have infact made a working version of the site as requested.
+
+![Cory](Cory1.png)
+![Cory](Cory2.png)
+![Cory](Cory3.png)
 
 ## VM with Java Guide - Tim Gehrsitz
 1. Go to GCP and create a new VM instance in compute engine
@@ -110,6 +116,8 @@ Our working version is accessable here: http://104.155.180.57:8080/RNG-page/rng
 
 ## Tests - Hope Anderson
 To runs tests from terminal within directory containing test file, type 
+![Hope](Hope1.png)
+![Hope](Hope1.png)
 ```bash
 python3 test_servers.py
 ```
