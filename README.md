@@ -79,7 +79,6 @@ Serving Flask app "server" (lazy loading)
 
 8. To connect to the server you will use your vms external ip but we need to use http to connect, not https, so the url for example would be http://11.111.11.11/. The random number will appear in the top left corner of the page.
 
-Our working version of the site accessable to anyone.  http://34.69.126.180/  if there are any issues during the setup process, this link should show we have infact made a working version of the site as requested.
 
 ![Cory](Cory1.PNG)
 ![Cory](Cory2.PNG)
@@ -111,7 +110,6 @@ Our working version of the site accessable to anyone.  http://34.69.126.180/  if
 10. Navigate to WEB-INF/classes and you should see "(yourJavaName).class"
 11. in WEB-INF create web.xml
 12. Create servlet tags and servlet-mapping tags as showin in this git
-13. Navigate to http://(your.vm.ip):8080/RNG-page/(your servlet url-pattern) and see the random number in the top left
 
 ![Tim](MicrosoftTeams-image.png)
 ![Tim](MicrosoftTeams-image(1).png)
