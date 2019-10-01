@@ -81,8 +81,8 @@ Serving Flask app "server" (lazy loading)
 Our working version of the site accessable to anyone.  http://34.69.126.180/  if there are any issues during the setup process, this link should show we have infact made a working version of the site as requested.
 
 ![Cory](Cory1.PNG)
-![Cory](Cory2.PGN)
-![Cory](Cory3.PGN)
+![Cory](Cory2.PNG)
+![Cory](Cory3.PNG)
 
 ## VM with Java Guide - Tim Gehrsitz
 1. Go to GCP and create a new VM instance in compute engine
