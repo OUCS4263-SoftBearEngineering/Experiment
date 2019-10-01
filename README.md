@@ -120,7 +120,7 @@ Serving Flask app "server" (lazy loading)
 
 ## Tests - Hope Anderson
 To runs tests from terminal within directory containing test file, type 
-![Hope](Hope1.png)
+![Hope](Hope2.png)
 ![Hope](Hope1.png)
 ```bash
 python3 test_servers.py
