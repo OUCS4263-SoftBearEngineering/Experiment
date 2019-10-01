@@ -55,6 +55,7 @@ and replace with
 `mvn appengine:deploy`
 
 ![Bryant](IndexPic.PNG)
+![Bryant](Bryant2.PNG)
 
 ## VM with Python Guide - Cory White
 (In this we presume there is not VM already made so there may be steps that can be skipped)
@@ -112,7 +113,8 @@ Our working version of the site accessable to anyone.  http://34.69.126.180/  if
 12. Create servlet tags and servlet-mapping tags as showin in this git
 13. Navigate to http://(your.vm.ip):8080/RNG-page/(your servlet url-pattern) and see the random number in the top left
 
-Our working version is accessable here: http://104.155.180.57:8080/RNG-page/rng
+![Tim](MicrosoftTeams-image)
+![Tim](MicrosoftTeams-image (1))
 
 ## Tests - Hope Anderson
 To runs tests from terminal within directory containing test file, type 
