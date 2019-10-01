@@ -114,11 +114,11 @@ Our working version of the site accessable to anyone.  http://34.69.126.180/  if
 13. Navigate to http://(your.vm.ip):8080/RNG-page/(your servlet url-pattern) and see the random number in the top left
 
 ![Tim](MicrosoftTeams-image.png)
-![Tim](MicrosoftTeams-image(1).png)
-![Tim](MicrosoftTeams-image(2).png)
-![Tim](MicrosoftTeams-image(3).png)
-![Tim](MicrosoftTeams-image(4).png)
-![Tim](MicrosoftTeams-image(5).png)
+![Tim](MicrosoftTeams-image (1).png)
+![Tim](MicrosoftTeams-image (2).png)
+![Tim](MicrosoftTeams-image (3).png)
+![Tim](MicrosoftTeams-image (4).png)
+![Tim](MicrosoftTeams-image (5).png)
 
 ## Tests - Hope Anderson
 To runs tests from terminal within directory containing test file, type 
